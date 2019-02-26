@@ -1,9 +1,9 @@
-Steam:id/PowerOWO
+#Steam:id/PowerOWO
 
-Discord:Power#9989
+#Discord:Power#9989
 
-Uplay:PoNiZz
+#Uplay:PoNiZz
 
-Origin:PowerAmmm
+#Origin:PowerAmmm
 
-𝓟𝓞𝓦𝓔𝓡
+#𝓟𝓞𝓦𝓔𝓡
